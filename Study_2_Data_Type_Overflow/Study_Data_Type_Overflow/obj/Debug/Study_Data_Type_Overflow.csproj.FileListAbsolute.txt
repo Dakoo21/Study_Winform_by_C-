@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\bin\Debug\Study_Data_Type_Overflow.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\bin\Debug\Study_Data_Type_Overflow.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\bin\Debug\Study_Data_Type_Overflow.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.lbl_Double_Title.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Data_Type_Overflow\Study_Data_Type_Overflow\obj\Debug\Study_Data_Type_Overflow.exe.config

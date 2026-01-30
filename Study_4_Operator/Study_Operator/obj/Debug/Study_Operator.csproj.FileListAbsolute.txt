@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\bin\Debug\Study_Operator.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\bin\Debug\Study_Operator.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\bin\Debug\Study_Operator.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.Form1.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Operator\Study_Operator\obj\Debug\Study_Operator.exe.config

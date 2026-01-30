@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\bin\Debug\Study_Method.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\bin\Debug\Study_Method.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\bin\Debug\Study_Method.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.Form1.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_Method\Study_Method\obj\Debug\Study_Method.exe.config

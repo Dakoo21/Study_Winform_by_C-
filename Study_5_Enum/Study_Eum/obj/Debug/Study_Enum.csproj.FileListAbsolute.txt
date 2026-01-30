@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Enum.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Eum.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Enum.Form1.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Eum.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Enum.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Enum.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Eum.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\obj\Debug\Study_Eum.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\bin\Debug\Study_Eum.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\bin\Debug\Study_Eum.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_5_Eum\Study_Eum\bin\Debug\Study_Eum.pdb

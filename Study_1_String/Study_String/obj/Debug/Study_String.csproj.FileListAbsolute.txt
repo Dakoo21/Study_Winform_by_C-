@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\bin\Debug\Study_String.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\bin\Debug\Study_String.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\bin\Debug\Study_String.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.Form1.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\toy\Study_String\Study_String\obj\Debug\Study_String.exe.config
