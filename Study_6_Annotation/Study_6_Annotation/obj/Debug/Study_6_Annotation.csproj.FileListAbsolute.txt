@@ -1,0 +1,11 @@
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\bin\Debug\Study_6_Annotation.exe.config
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\bin\Debug\Study_6_Annotation.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\bin\Debug\Study_6_Annotation.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.csproj.AssemblyReference.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.Form1.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.Properties.Resources.resources
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.csproj.GenerateResource.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.csproj.CoreCompileInputs.cache
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.exe
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.pdb
+C:\Users\nwan0\OneDrive\Desktop\MIS code\Study_Winform_by_C#\Study_6_Annotation\Study_6_Annotation\obj\Debug\Study_6_Annotation.exe.config
